@@ -46,3 +46,7 @@ group :development do
   # gem "spring"
 end
 
+#Added Gems
+
+gem 'devise'
+
